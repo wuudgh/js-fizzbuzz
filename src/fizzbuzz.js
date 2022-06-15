@@ -1,5 +1,5 @@
 // TODO: Write your function in this file
-const arrays =["Fizz", "Buzz", "FizzBuzz", "NotDevisible"]
+const arrays =["Fizz", "Buzz", "FizzBuzz"]
 
 
 function divisible (lower, upper){
